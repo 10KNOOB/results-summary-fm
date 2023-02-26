@@ -69,7 +69,7 @@ const Components = () => {
                 <span className="text-gray-400"> / 100</span>
               </div>
             </div>
-            <button className=" text-white bg-[#303b5a] px-20 py-2 rounded-full mt-5 hover:bg-[#1125d4]">
+            <button className=" text-white bg-[#303b5a] w-full px-20 py-2 rounded-full mt-5 hover:bg-[#1125d4]">
               Continue
             </button>
           </div>
